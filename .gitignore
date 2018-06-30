@@ -11,6 +11,7 @@ bin-release/
 *.txt
 *.rtf
 *.sublime-workspace
+*.sublime-project
 
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
