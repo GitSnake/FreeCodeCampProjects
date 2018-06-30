@@ -1,4 +1,4 @@
-# Project Requirements For "Responsive Web Design: Build a Survey Form"
+# Project Requirements: Responsive Web Design - Build a Survey Form
 
 ## Requirements: Use Vanila HTML5, JavaScript, and CSS3
 
