@@ -8,9 +8,9 @@
 </head>
 <body>
 	
-
+<!-- Form Title -->
 <h1 id="title">A title</h1>
-
+<!-- Form Description -->
 <p id="description" >A short description</p>
 
 <form id="survey-form" action="index_submit" method="get" accept-charset="utf-8">
@@ -19,19 +19,26 @@
 <!-- Last Name -->
 <input type="text" name="" value="" placeholder="Enter Last Name..." id="name" required>
 
-1. Email field (HTML5 Validation error if email is not formatted correctly)
+1. HTML5 Validation error if email is not formatted correctly
+<!-- Email -->
 <input type="email" name="email" value="" placeholder="john.doe@email.com" id="email" required>
 
 1. Number Input Field (HTML5 Validation Error if isNaN == true)
+HTML5 Validation error if any numbers outside the range of the number input are typed
+<!-- Number -->
 <input type="number" id="number" name="number" value="" placeholder="555-555-5555" required>
-
-1. Include an HTML5 Validation error if any numbers outside the range of the number input are typed
 
 1. Include input elements with corresponding labels & ids: id="name-label", id="email-label", and id="number-label"
 
 1. For the name, email, and number input fields include placeholder text to describe or provide instructions for each field
 
-1. Include a dropdown input field that has a corresponding id="dropdown"
+<!-- Dropdown -->
+<select name="dropdown" id="dropdown">
+  <option value="item1">item1</option>
+  <option value="item2">item2</option>
+  <option value="item3">item3</option>
+  <option value="item4">item4</option>
+</select>
 
 1. Include at least one group of radio buttons. Each group should be grouped using the name attribute.
 
