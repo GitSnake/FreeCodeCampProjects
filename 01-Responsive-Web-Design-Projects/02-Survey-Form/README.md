@@ -1,8 +1,6 @@
 # Project Requirements For "Responsive Web Design Projects - Build a Survey Form"
 
-## Requirement: Use plain HTML5, JavaScript, and CSS3
-
-## Include:
+## Requirements: Use Vanila HTML5, JavaScript, and CSS3
 
 1. A title with id="title" in H1 sized text
 1. A short explanation with id="description" in paragraph sized text
