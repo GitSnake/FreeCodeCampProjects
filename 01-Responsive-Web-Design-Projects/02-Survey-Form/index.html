@@ -17,17 +17,11 @@
 1. Include a required field to enter a name with id="name"
 <input type="text" name="" value="" placeholder="Enter Name" id="name" required>
 
-1. Email field (required & id="email")
+1. Email field (HTML5 Validation error if email is not formatted correctly)
 <input type="email" name="email" value="" placeholder="john.doe@email.com" id="email" required>
 
-1. Include an HTML5 Validation error if email is not formatted correctly
-
-
-1. Include a required field to enter a number with id="number"
+1. Number Input Field (HTML5 Validation Error if isNaN == true)
 <input type="number" id="number" name="number" value="" placeholder="555-555-5555" required>
-
-1. Include an HTML5 Validation error if a non-number is typed into the number input
-
 
 1. Include an HTML5 Validation error if any numbers outside the range of the number input are typed
 
@@ -46,16 +40,11 @@
 <input type="checkbox" name="" value="">
 <input type="checkbox" name="" value="">
 
-1. Include a textarea at the end for additional comments.
+<!-- Additional comments -->
+<textarea name="additional-comments" placeholder="Additional Comments..." id="comments"></textarea>
 
-<textarea name="additional-comments"></textarea>
-
-1. Include a button, inside the form element, with id="submit"
+<!-- Submit Button -->
 <button type="submit" id="submit">Submit</button>
-
-
-
-
 
 </form>
 
