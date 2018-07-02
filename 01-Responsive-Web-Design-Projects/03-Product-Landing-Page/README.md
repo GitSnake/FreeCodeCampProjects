@@ -1,6 +1,6 @@
-Responsive Web Design Projects - Build a Product Landing Page
+# Responsive Web Design Projects - "Build a Product Landing Page"
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/RKRbwL.
-Requirements: Use vanilla HTML, JavaScript, and CSS to complete this project
+## Requirements: Use vanilla HTML, JavaScript, and CSS to complete this project
 
 1. The product landing page should have a header element with a corresponding id="header"
 1. Include an image within the header element with a corresponding id="header-img". A company logo would make a good image here
