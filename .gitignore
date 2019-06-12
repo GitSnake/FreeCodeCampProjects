@@ -17,3 +17,5 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+02-JS Algorithms & Data Structures Certification/01-Intro to JS/01-Word Blanks Mad Lib/.DS_Store
+.DS_Store
