@@ -1,9 +1,9 @@
 function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
   // Your code below this line
-  var myNoun = 0;
-  var myAdjective = 0;
-  var myVerb = 0;
-  var myAdverb = 0;
+  var myNoun = "dog";
+  var myAdjective = "big";
+  var myVerb = "ran";
+  var myAdverb = "quickly";
 
   var result = "It was " + myAdjective + " hot " + ", and " + myNoun + " " + myVerb + " ourselves " + myAdverb".";
 
