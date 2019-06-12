@@ -6,7 +6,7 @@ function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
   var myAdverb = 0;
 
 
-  var result = "It was "really" + "hot" + ", and we" + "laughed" + "ourselves" + "silly.";
+  var result = "It was " + really" + "hot" + ", and myNoun + myVerb + "ourselves" + "silly.";
 
 
 
