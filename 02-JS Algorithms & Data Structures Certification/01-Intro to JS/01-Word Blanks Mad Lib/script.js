@@ -7,4 +7,4 @@ function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
 }
 
 // Change the words here to test your function
-wordBlanks("dog", "big", "ran", "quickly");
+wordBlanks("dog", "big", "ran", "quickly", "cat", "little", "hit", "slowly");
